@@ -1,7 +1,4 @@
 # Blender MTL File: 'HoneyCombPiece.blend'
-<<<<<<< HEAD
-# Material Count: 0
-=======
 # Material Count: 1
 
 newmtl Material
@@ -13,4 +10,3 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
->>>>>>> dd0497b6a6976fb1e94010a01e62e81073edbd26
